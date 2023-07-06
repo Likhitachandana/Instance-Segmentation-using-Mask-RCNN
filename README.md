@@ -1,7 +1,7 @@
 # PROJECT TITLE : Instance-Segmentation-using-Mask-RCNN
 A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
 # AIM OF THE PROJECT 
-The goal of "instance segmentation", a unique sort of image segmentation, is to locate and identify each unique instance of something that occurs in a photograph. I have created custom dataset with 2 classes Cars and Sign Board which are collected around the University of New haven. 
+The goal of "instance segmentation", a unique sort of image segmentation, is to locate and identify each unique instance of something that occurs in a photograph. I have created custom dataset with 2 classes Cars and Sign Board which are collected around a Private University. 
 We are segmentating the image with single class instead of using mutiple classes in the same image
 As a part of our Final Project for DEEP lEARNING. we have choosen "Instance Segmentation Topic" built using Mask RCNN architecture. 
 In the First update for our project. We have annotated our images and reduced the image size for Data Processing. In the first update, we have used Bounding Boxes for each image but later we have used polygon shape for annotating the images.
